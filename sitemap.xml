@@ -25,44 +25,34 @@
   
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/1.JPG</image:loc>
-  </image:image>
-  
+  </image:image>  
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/2.JPG</image:loc>
-  </image:image>
-  
+  </image:image>  
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/3.JPG</image:loc>
   </image:image>
-
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/4.JPG</image:loc>
   </image:image>
-
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/5.JPG</image:loc>
   </image:image>
-
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/6.JPG</image:loc>
   </image:image>
-
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/7.JPG</image:loc>
   </image:image>
-
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/8.JPG</image:loc>
   </image:image>
-
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/9.JPG</image:loc>
   </image:image>
-
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/10.JPG</image:loc>
   </image:image>
-
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/11.JPG</image:loc>
   </image:image>
@@ -276,6 +266,9 @@
 </url>
 <url>
   <loc>https://hannahbarlag.com/bio.html</loc>
+    <image:image>
+      <image:loc>https://hannahbarlag.com/uploads/bio/ab.jpg</image:loc>
+    </image:image>
   <lastmod>2020-10-14T12:28:52+00:00</lastmod>
   <priority>0.80</priority>
 </url>
@@ -285,15 +278,4 @@
   <priority>0.80</priority>
 </url>
 
-
 </urlset>
-
- <url>
-    <loc>http://example.com/sample.html</loc>
-    <image:image>
-      <image:loc>http://example.com/image.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://example.com/photo.jpg</image:loc>
-    </image:image>
-  </url> 
