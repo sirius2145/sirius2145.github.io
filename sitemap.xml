@@ -8,19 +8,16 @@
 
 <url>
   <loc>https://hannahbarlag.com/</loc>
-  <lastmod>2020-10-14T12:28:52+00:00</lastmod>
-  <priority>1.00</priority>
+ <changefreq>daily</changefreq>
 </url>
+
 <url>
   <loc>https://hannahbarlag.com/index.html</loc>
-  <image:image>
-  <image:loc>https://hannahbarlag.com/uploads/background-images/wedding.jpg</image:loc>
-  </image:image>
 <changefreq>daily</changefreq>
 </url>
+
 <url>
-  <loc>https://hannahbarlag.com/mural.html</loc>
-  
+  <loc>https://hannahbarlag.com/mural.html</loc>  
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/1.jpg</image:loc>
   </image:image>  
