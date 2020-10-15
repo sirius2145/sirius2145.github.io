@@ -6,7 +6,6 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 
-
 <url>
   <loc>https://hannahbarlag.com/</loc>
   <lastmod>2020-10-14T12:28:52+00:00</lastmod>
@@ -17,8 +16,7 @@
   <image:image>
   <image:loc>https://hannahbarlag.com/uploads/background-images/wedding.jpg</image:loc>
   </image:image>
-  <lastmod>2020-10-14T12:28:52+00:00</lastmod>
-  <priority>0.80</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://hannahbarlag.com/mural.html</loc>
@@ -113,7 +111,7 @@
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/mural/virgin.JPG</image:loc>
   </image:image>
-<lastmod>2020-10-14T12:28:52+00:00</lastmod>   
+<changefreq>daily</changefreq>  
 </url>
 <url>
   <loc>https://hannahbarlag.com/wall.html</loc>
@@ -198,10 +196,8 @@
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/interior/28.jpg</image:loc>
   </image:image>
-  <lastmod>2020-10-14T12:28:53+00:00</lastmod>
-  <priority>0.80</priority>
+     <changefreq>daily</changefreq>
 </url>
-
 <url>
   <loc>https://hannahbarlag.com/fineart.html</loc>
   <image:image>
@@ -255,27 +251,22 @@
   <image:image>
     <image:loc>https://hannahbarlag.com/uploads/images/18_Neroli.jpg</image:loc>
   </image:image>
-  <lastmod>2020-10-14T12:28:52+00:00</lastmod>
-  <priority>0.80</priority>
+<changefreq>daily</changefreq>
 </url>
 
 <url>
   <loc>https://hannahbarlag.com/prints.html</loc>
-  <lastmod>2020-10-14T12:28:52+00:00</lastmod>
-  <priority>0.80</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://hannahbarlag.com/bio.html</loc>
     <image:image>
       <image:loc>https://hannahbarlag.com/uploads/bio/ab.jpg</image:loc>
     </image:image>
-  <lastmod>2020-10-14T12:28:52+00:00</lastmod>
-  <priority>0.80</priority>
+<changefreq>daily</changefreq>
 </url>
 <url>
   <loc>https://hannahbarlag.com/contact.html</loc>
-  <lastmod>2020-10-14T12:28:52+00:00</lastmod>
-  <priority>0.80</priority>
+<changefreq>daily</changefreq>
 </url>
-
 </urlset>
