@@ -7,263 +7,263 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <url>
-  <loc>https://hannahbarlag.com/</loc>
+  <loc>https://barlag.art/</loc>
  <changefreq>daily</changefreq>
 </url>
 
 <url>
-  <loc>https://hannahbarlag.com/index.html</loc>
+  <loc>https://barlag.art/index.html</loc>
 <changefreq>daily</changefreq>
 </url>
 
 <url>
-  <loc>https://hannahbarlag.com/mural.html</loc>  
+  <loc>https://barlag.art/mural.html</loc>  
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/1.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/1.jpg</image:loc>
   </image:image>  
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/2.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/2.jpg</image:loc>
   </image:image>  
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/3.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/3.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/4.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/4.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/5.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/5.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/6.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/6.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/7.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/7.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/8.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/8.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/9.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/9.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/10.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/10.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/11.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/11.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/12.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/12.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/13.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/13.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/14.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/14.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/15.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/15.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/16.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/16.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/17.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/17.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/18.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/18.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/19.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/19.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/20.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/20.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/21.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/21.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/22.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/22.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/23.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/23.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/24.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/24.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/25.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/25.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/26.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/26.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/27.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/27.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/28.JPG</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/28.JPG</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/pattern.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/pattern.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/mural/virgin.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/mural/virgin.jpg</image:loc>
   </image:image>
 <changefreq>daily</changefreq>  
 </url>
 <url>
-  <loc>https://hannahbarlag.com/wall.html</loc>
+  <loc>https://barlag.art/wall.html</loc>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/1.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/1.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/2.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/2.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/3.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/3.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/4.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/4.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/5.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/5.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/6.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/6.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/7.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/7.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/8.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/8.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/9.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/9.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/10.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/10.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/11.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/11.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/12.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/12.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/13.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/13.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/14.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/14.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/15.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/15.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/16.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/16.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/17.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/17.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/18.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/18.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/19.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/19.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/20.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/20.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/21.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/21.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/22.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/22.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/23.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/23.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/24.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/24.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/26.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/26.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/27.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/27.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/interior/28.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/interior/28.jpg</image:loc>
   </image:image>
      <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://hannahbarlag.com/fineart.html</loc>
+  <loc>https://barlag.art/fineart.html</loc>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/1_Wedding_Botswana.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/1_Wedding_Botswana.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/2_Apples2.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/2_Apples2.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/3_Neroli1.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/3_Neroli1.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/5_SummFest2.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/5_SummFest2.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/6_outskirts2.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/6_outskirts2.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/7_Blue_Dress2.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/7_Blue_Dress2.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/8.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/8.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/9_Morning_Rose_1.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/9_Morning_Rose_1.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/10_Morning_Rose_2.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/10_Morning_Rose_2.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/11_Lilac_Sunset_In_Forest_1.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/11_Lilac_Sunset_In_Forest_1.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/12_Lilac_Sunset_In_Forest_2.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/12_Lilac_Sunset_In_Forest_2.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/13_Lilac_Sunset_In_Forest_3.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/13_Lilac_Sunset_In_Forest_3.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/14_Morning_Roses_3.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/14_Morning_Roses_3.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/15_Ipomea.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/15_Ipomea.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/16_Rain.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/16_Rain.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/17_outskirts.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/17_outskirts.jpg</image:loc>
   </image:image>
   <image:image>
-    <image:loc>https://hannahbarlag.com/uploads/images/18_Neroli.jpg</image:loc>
+    <image:loc>https://barlag.art/uploads/images/18_Neroli.jpg</image:loc>
   </image:image>
 <changefreq>daily</changefreq>
 </url>
 
 <url>
-  <loc>https://hannahbarlag.com/prints.html</loc>
+  <loc>https://barlag.art/prints.html</loc>
 <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://hannahbarlag.com/bio.html</loc>
+  <loc>https://barlag.art/bio.html</loc>
     <image:image>
-      <image:loc>https://hannahbarlag.com/uploads/bio/ab.jpg</image:loc>
+      <image:loc>https://barlag.art/uploads/bio/ab.jpg</image:loc>
     </image:image>
 <changefreq>daily</changefreq>
 </url>
 <url>
-  <loc>https://hannahbarlag.com/contact.html</loc>
+  <loc>https://barlag.art/contact.html</loc>
 <changefreq>daily</changefreq>
 </url>
 </urlset>
